@@ -1,0 +1,12 @@
+# Obsidian のワークスペース状態ファイル(端末ごとに異なり、同期すると競合の原因になる)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+
+# ゴミ箱
+.trash/
+
+# OS 生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
